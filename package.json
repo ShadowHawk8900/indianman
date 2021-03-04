@@ -1,0 +1,24 @@
+{
+  "name": "indiansec",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-opus": "^0.3.3",
+    "save": "^2.4.0"
+  },
+  "keywords": [],
+  "devDependencies": {},
+  "description": ""
+}
